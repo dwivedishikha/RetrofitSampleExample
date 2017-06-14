@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit Example</string>
+    <!--Peer Summary -->
+    <string name="yourscores">YOUR SCORES</string>
+    <string name="overall">Overall\nratings</string>
+    <string name="peersvoteyes">Peers\nvoted yes</string>
+    <string name="peersvoteno">Peers\nvoted not yet</string>
+    <string name="readyfornextlevel">Ready for the next level? </string>
+</resources>
